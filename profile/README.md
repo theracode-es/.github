@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/lockup-horizontal-dark.png" alt="TheraCode" width="480" />
+  <img src="./assets/lockup-horizontal-dark.png" alt="TheraCode" width="100%" />
 </div>
 
 <div align="center">
