@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/lockup-horizontal-dark.png" alt="TheraCode" width="100%" />
+  <img src="assets/lockup-horizontal-dark.png" alt="TheraCode" width="100%" />
 </div>
 
 <div align="center">
@@ -13,14 +13,14 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Theracode-ES/theracode-template">template</a> · <a href="https://github.com/Theracode-ES/theracode-llm">models</a>
+  <a href="assets/">assets</a>
 </div>
 
 <br />
 
 <div align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,git,docker,huggingface,wandb,ollama&titles=true" alt="Python, PyTorch, Git, Docker, Hugging Face, Weights & Biases, and Ollama" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,git,docker,huggingface,wandb,ollama&titles=true" alt="Technology stack" />
   </a>
 </div>
 
